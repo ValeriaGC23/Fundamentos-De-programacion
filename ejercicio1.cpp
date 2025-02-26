@@ -6,7 +6,6 @@ int main() {
 	int num1;
 	int num2;
 	int num3;
-	int addition;
 
 	cout << "Digite tres numeros" << endl;
 	cin >> num1 >> num2 >> num3;
